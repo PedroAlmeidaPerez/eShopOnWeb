@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 267b7208-ad60-4ecd-b30f-c967391e64a6
-  WEBAPP-NAME: Paco
+  WEBAPP-NAME: Paco2
 
 
 jobs:
